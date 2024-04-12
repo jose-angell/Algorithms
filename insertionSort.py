@@ -1,4 +1,5 @@
 def insertionSort(array):
+    #si el tamano de la lista es 1 o 0 la lista ya esta ordenada
     if len(array) <= 1: return  array
     #recorre la lista completa tomando como inicio el indice 1, el indice 0 se toma como el subarray ordenado inicial
     for i in range(1,len(array)): 
