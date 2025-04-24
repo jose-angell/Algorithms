@@ -1,1 +1,53 @@
 borrador.py
+
+# Build results
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Resharper files
+*.DotSettings.user
+
+# VS for Mac
+.vscode/
+*.pidb
+*.userprefs
+
+# .NET CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testhost.dll
+*.TestAdapter.dll
+*.TestFramework.dll
+
+# Others
+*.dbmdl
+*.bak
+*.sql
+*.pdb
+*.mdb
