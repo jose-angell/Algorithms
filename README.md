@@ -9,9 +9,7 @@ Este proyecto contiene implementaciones de algoritmos clásicos en C#, con sus r
 
 ## Para correr las pruebas
 
-```bash
-dotnet test
-
+```bash dotnet test```bash
 
 # Algoritmos en Python
 
@@ -25,7 +23,7 @@ Este proyecto contiene implementaciones de algoritmos clásicos (búsqueda y ord
 
 ## Requisitos
 
-```bash
+
 # Crear un entorno virtual
 python -m venv venv
 
